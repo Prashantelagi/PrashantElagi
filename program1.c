@@ -2,9 +2,6 @@
 void main ()
 {
 	printf("Hello world");
-	
-
-{
 	print("hello world");
 	printf("Enter the World");
  i have added this line  in remotrepo on saturday
@@ -14,7 +11,5 @@ int main()
 {
     printf("Hello World");
     return 0;
-	}
 }
-
 }
